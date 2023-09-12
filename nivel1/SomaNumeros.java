@@ -1,4 +1,4 @@
-package beecrowd.problemas;
+package beecrowd.problemas.nivel1;
 
 import java.util.Scanner;
 /* Leia 2 valores inteiros e armazene-os nas variáveis A e B. 

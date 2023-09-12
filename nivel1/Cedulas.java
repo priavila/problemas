@@ -1,4 +1,4 @@
-package beecrowd.problemas;
+package beecrowd.problemas.nivel1;
 
 import java.util.Locale;
 import java.util.Scanner;

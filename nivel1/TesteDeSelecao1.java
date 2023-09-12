@@ -1,4 +1,4 @@
-package beecrowd.problemas;
+package beecrowd.problemas.nivel1;
 
 /* se B>C && D>A && C+D>A+B && C,D==+ && A == par
 A == PAR
