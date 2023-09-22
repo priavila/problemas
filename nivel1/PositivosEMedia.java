@@ -10,7 +10,7 @@ public class PositivosEMedia {
         double valor;
         int contador = 0;
         double soma = 0;
-        double media = 0;
+        double media;
         int cc = 0;
 
         while(contador < 6 ) {
@@ -19,13 +19,12 @@ public class PositivosEMedia {
 
             if(valor > 0) {
                 cc++;
-            }
-
-            if (valor > 0) {
                 soma = soma + valor;
-                media = soma / cc;
             }
+            
         }
+
+        media = soma / cc;
 
         System.out.printf("%d valores positivos%n", cc);
         System.out.printf("%.1f%n", media);
