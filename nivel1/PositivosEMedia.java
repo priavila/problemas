@@ -21,7 +21,7 @@ public class PositivosEMedia {
                 cc++;
                 soma = soma + valor;
             }
-            
+
         }
 
         media = soma / cc;
